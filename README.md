@@ -6,8 +6,8 @@ This project aims to build an AI-powered recruiter that automates resume parsing
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai_recruter.git
-   cd ai_recruter
+   git clone https://github.com/aiclub-smvdu/AI_Recruter.git
+   cd AI_Recruter
 
 2. Create the virtual environment and activate it
    ```python -m venv .venv```
